@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.fourmain{
+    background-color:green;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}

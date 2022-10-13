@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.elevenmain{
+    background-color:yellow;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}

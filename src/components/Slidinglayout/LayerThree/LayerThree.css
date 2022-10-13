@@ -1,0 +1,34 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.three-main-pic{
+    background-color:blue;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.picone{
+    background-color: red;
+    display: flex;
+    
+}
+
+.pictwo{
+    background-color: yellow;
+    display: flex;
+    
+}
+.picthree{
+    background-color:pink ;
+    display: flex;
+    align-items: center;
+}
+
+.picfour{
+    background-color:pink ;
+    display: flex;
+    align-items: center;
+}

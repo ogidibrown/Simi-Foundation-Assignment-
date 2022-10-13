@@ -1,0 +1,15 @@
+
+.mainapp{
+    display: flex;
+    flex-direction: column;
+    flex: 1.0;
+}
+
+
+.slide-layer{
+    width:100%;
+    background:#111111;
+    height:80px;
+    position:absolute;
+    
+}

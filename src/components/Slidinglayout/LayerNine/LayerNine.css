@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.ninemain{
+    background-color:rgb(21, 24, 21);
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}

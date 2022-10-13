@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.sevenmain{
+    background-color:rgb(8, 96, 155);
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
